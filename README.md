@@ -1,1 +1,1 @@
-# local-AI-model
+# local-AI-model llama3.2
