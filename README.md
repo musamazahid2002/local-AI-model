@@ -1,1 +1,1 @@
-# LocalAIAgentWithRAG
+Local AI-Model
